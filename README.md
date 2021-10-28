@@ -1,6 +1,6 @@
 # ia376i_projeto_final
 
-## Referência:
+## Referências:
 
 1) Document Ranking with a Pretrained Sequence-to-Sequence Model
 https://aclanthology.org/2020.findings-emnlp.63.pdf
